@@ -31,6 +31,7 @@ pip3 install requests --upgrade
 pip3 install requests[socks]
 pip3 install stem
 pip3 install instagram-py
+pip3 install instaloader
 pkg install tor -y
 cd 
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
